@@ -1,6 +1,6 @@
 This app is for demonstration purposes on how to use 'Multiple Actions' from 'Single Floating Action' button.<br />
 
-Library used: compile 'com.getbase:floatingactionbutton:1.10.1'<br /><br />
+<b>Dependency used:</b> compile 'com.getbase:floatingactionbutton:1.10.1'<br />
 
 See the screenshots below:<br />
 
